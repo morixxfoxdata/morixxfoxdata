@@ -19,9 +19,15 @@ Interested in AI/LLM tooling, infrastructure automation, and multi-agent systems
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,lua,typescript,astro,nix,neovim,git,github,githubactions,docker,linux&theme=dark&perline=11" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,lua,typescript,astro,nix,neovim,git,github,githubactions,docker,linux&theme=light&perline=11" />
-    <img src="https://skillicons.dev/icons?i=python,lua,typescript,astro,nix,neovim,git,github,githubactions,docker,linux&theme=dark&perline=11" alt="Tech Stack" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,rust,lua,typescript,astro,latex&theme=dark&perline=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,rust,lua,typescript,astro,latex&theme=light&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,rust,lua,typescript,astro,latex&theme=dark&perline=7" alt="Languages & Frameworks" />
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=neovim,nix,docker,git,github,githubactions,gcp&theme=dark&perline=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=neovim,nix,docker,git,github,githubactions,gcp&theme=light&perline=7" />
+    <img src="https://skillicons.dev/icons?i=neovim,nix,docker,git,github,githubactions,gcp&theme=dark&perline=7" alt="Tools & Infrastructure" />
   </picture>
 </p>
 
