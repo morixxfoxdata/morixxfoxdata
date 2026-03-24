@@ -11,23 +11,21 @@
 Graduate student at Kanazawa University, working at emuni.
 Interested in AI/LLM tooling, infrastructure automation, and multi-agent systems.
 
-<sub>金沢大学 / emuni 所属。AI ツール・インフラ自動化・マルチエージェントシステムに関心があります。</sub>
-
 <br>
 
 ### Tech Stack
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,rust,lua,typescript,astro,latex&theme=dark&perline=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,rust,lua,typescript,astro,latex&theme=light&perline=7" />
-    <img src="https://skillicons.dev/icons?i=python,pytorch,rust,lua,typescript,astro,latex&theme=dark&perline=7" alt="Languages & Frameworks" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,rust,lua,typescript,astro,latex&amp;theme=dark&amp;perline=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,rust,lua,typescript,astro,latex&amp;theme=light&amp;perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,rust,lua,typescript,astro,latex&amp;theme=dark&amp;perline=7" alt="Languages &amp; Frameworks" />
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=neovim,nix,docker,git,github,githubactions,gcp&theme=dark&perline=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=neovim,nix,docker,git,github,githubactions,gcp&theme=light&perline=7" />
-    <img src="https://skillicons.dev/icons?i=neovim,nix,docker,git,github,githubactions,gcp&theme=dark&perline=7" alt="Tools & Infrastructure" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=neovim,nix,docker,git,github,githubactions,gcp&amp;theme=dark&amp;perline=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=neovim,nix,docker,git,github,githubactions,gcp&amp;theme=light&amp;perline=7" />
+    <img src="https://skillicons.dev/icons?i=neovim,nix,docker,git,github,githubactions,gcp&amp;theme=dark&amp;perline=7" alt="Tools &amp; Infrastructure" />
   </picture>
 </p>
 
