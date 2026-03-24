@@ -16,17 +16,13 @@ Interested in AI/LLM tooling, infrastructure automation, and multi-agent systems
 ### Tech Stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,rust,lua,typescript,astro,latex&amp;theme=dark&amp;perline=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,rust,lua,typescript,astro,latex&amp;theme=light&amp;perline=7" />
-    <img src="https://skillicons.dev/icons?i=python,pytorch,rust,lua,typescript,astro,latex&amp;theme=dark&amp;perline=7" alt="Languages &amp; Frameworks" />
-  </picture>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,rust,lua,typescript,astro,latex" />
+  </a>
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=neovim,nix,docker,git,github,githubactions,gcp&amp;theme=dark&amp;perline=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=neovim,nix,docker,git,github,githubactions,gcp&amp;theme=light&amp;perline=7" />
-    <img src="https://skillicons.dev/icons?i=neovim,nix,docker,git,github,githubactions,gcp&amp;theme=dark&amp;perline=7" alt="Tools &amp; Infrastructure" />
-  </picture>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim,nix,docker,git,github,githubactions,gcp" />
+  </a>
 </p>
 
 <br>
